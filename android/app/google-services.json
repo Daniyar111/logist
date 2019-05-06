@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337197127921",
+    "firebase_url": "https://signinproject-1529493692128.firebaseio.com",
+    "project_id": "signinproject-1529493692128",
+    "storage_bucket": "signinproject-1529493692128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337197127921:android:76f02fe32fdff75a",
+        "android_client_info": {
+          "package_name": "io.progeek.logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337197127921-blib6cjj3qmvvc5b6h5mvevtv7d0phmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.progeek.logistics",
+            "certificate_hash": "8ea9e569ed664c1df8440d279537bc9eeadbb873"
+          }
+        },
+        {
+          "client_id": "337197127921-34mpcelt7pgvcrlpv665g5d5duu6c2kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzl-A3sAh1io6hup4moLEGM9zGfJVgTns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337197127921-34mpcelt7pgvcrlpv665g5d5duu6c2kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

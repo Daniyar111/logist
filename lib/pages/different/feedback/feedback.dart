@@ -1,0 +1,19 @@
+import 'package:flutter/material.dart';
+import 'package:logistics/pages/different/support/active.dart';
+import 'package:logistics/pages/different/support/closed.dart';
+
+class FeedbackPage extends StatelessWidget {
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Feedback'),
+      ),
+      body: Center(
+        child: Text('Feedback'),
+      ),
+    );
+  }
+}
+
